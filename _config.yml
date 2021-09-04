@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : https://spgarn.github.io # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /FHbygg/ # the subpath of your site, e.g. /blog
+baseurl: /restauranghjalpen/ # the subpath of your site, e.g. /blog
 
 title      : FillesByggservice
 email      : Filip@FHbygg.se #this is also the email contact forms will go to

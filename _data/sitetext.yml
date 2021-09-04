@@ -11,29 +11,29 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Välkommen till Fillesbygg!
-    text: Byggservice i världsklass
+    title: Välkommen till restauranghjälpen
+    text: Gör livet enkelt för restauranger!
     button: Läs mer
     buttonlink: "#services"
 
   services:
-    title: "Tjänster"
-    text: "Vårt utbud"
+    title: "Utförande"
+    text: "Hur vi skapar mervärde"
     section: services
     list:
-      - title: "Projektering"
-        desc: "Vi planerar och projekterar"
-        icon: fas fa-hammer #find more at https://fontawesome.com/icons
-      - title: "Utförande"
-        desc: "Vi utför byggandet"
-        icon: fas fa-hard-hat
-      - title: "Besiktning"
-        desc: "Vi besiktigar och säkerställer utfört arbete"
-        icon: far fa-check-square
+      - title: "Kostnadsanalys"
+        desc: "Vi går igenom alla avtal och ser hur vi kan göra besparingar"
+        icon: fas fa-clipboard-list #find more at https://fontawesome.com/icons
+      - title: "Ramavtal"
+        desc: "Vi knyter samman er med några av våra många leverantörer"
+        icon: fas fa-handshake
+      - title: "Outsourcing"
+        desc: "Vi tar över allt arbete som kan outsourcas"
+        icon: fas fa-users
 
   portfolio:
-    title: "Portfölj"
-    text: "Utförda projekt"
+    title: "Avdelningar"
+    text: "Våra avdelningar för outsourcing"
     section: portfolio
     closebutton: "Stäng"
 
@@ -68,28 +68,28 @@ en: &DEFAULT_EN
         align: right
     end: "Följ med oss framåt!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    section: about
+  # about:
+  #   title: "About Us"
+  #   text: "our story"
+  #   section: about
 
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
-      # - title: "envato"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/envato.jpg
-      # - title: "designmodo"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/designmodo.jpg
-      # - title: "themeforest"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/themeforest.jpg
-      # - title: "Creative Market"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/creative-market.jpg
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "Vårt team!"

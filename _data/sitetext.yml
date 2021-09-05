@@ -138,7 +138,7 @@ en: &DEFAULT_EN
     name-validation: "Vänligen fyll i ditt namn."
     email: "Email*"
     email-validation: "Vänligen fyll i din emailadress."
-    phone: "Telefonnummer"
+    phone: "Telefonnummer*"
     phone-validation: "Vänligen fyll i ditt telefonnummer."
     message: "Meddelande*"
     message-validation: "Vänligen skriv ditt meddelande."
